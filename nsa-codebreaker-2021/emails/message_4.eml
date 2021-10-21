@@ -1,0 +1,50 @@
+Subject: Doctor's Appointment
+From: mitchell.elizabeth@oops.net
+To: oops_tech@oops.net
+Cc:
+Bcc:
+Date: Mon, 15 Mar 2021 14:50:37 +0000
+Message-ID: <161581983700.22130.2992819424494449835@oops.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7760296119160712873=="
+
+--===============7760296119160712873==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+
+All,
+
+I have a denist's appointment @ 8:30 am today --and will return after the appointment around 9:30am.
+
+Cheers,
+Elizabeth
+
+Cordially,
+Elizabeth O. Mitchell
+OOPS Inc.
+0041 Reed Cove
+North Evanview, MA 07111
+Tel: 519-760-1515
+
+--===============7760296119160712873==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+	<p>All,</p>
+
+	<p>I have a denist&#8217;s appointment @ 8:30 am today &#8212;and will return after the appointment around 9:30am.</p>
+
+	<p>Cheers,<br />
+Elizabeth</p>
+
+	<p>Cordially,<br />
+Elizabeth O. Mitchell<br />
+OOPS Inc.<br />
+0041 Reed Cove<br />
+North Evanview, MA 07111<br />
+Tel: 519-760-1515</p>
+
+--===============7760296119160712873==--
