@@ -1,4 +1,4 @@
-**Crypto Stands for Cryptography - 100 pts**
+# Crypto Stands for Cryptography - 100 pts
 
 Welcome to the crypto team! We help consult in a variety of areas around the security department, helping to make sure our company is using proper encryption, data storage, and data transfer mechanisms.
 
