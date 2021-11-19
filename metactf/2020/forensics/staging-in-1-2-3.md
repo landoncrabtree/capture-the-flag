@@ -4,4 +4,7 @@ The Incident Response (IR) team identified evidence that a Threat Actor accessed
 There was a suspicious file created during the timeframe of Threat Actor activity: C:\123.tmp. Can you check it out?
 <hr>
 
-To find the flag, the file can be analyzed using `strings 123.tmp`. 
+To find the flag, the file can be analyzed using
+```shell
+strings 123.tmp
+```
