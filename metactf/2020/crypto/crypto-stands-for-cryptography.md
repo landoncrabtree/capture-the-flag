@@ -11,5 +11,7 @@ Is it secure? Can you crack it?
 <hr>
 
 The flag for this challenge can be found by decoding the base64 string.
-`echo "TWV0YUNURntiYXNlNjRfZW5jMGRpbmdfaXNfbjB0X3RoZV9zYW1lX2FzX2VuY3J5cHRpMG4hfQ==" | base64 --decode`
+```shell
+echo "TWV0YUNURntiYXNlNjRfZW5jMGRpbmdfaXNfbjB0X3RoZV9zYW1lX2FzX2VuY3J5cHRpMG4hfQ==" | base64 --decode
+```
 
