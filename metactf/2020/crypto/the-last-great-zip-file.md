@@ -6,11 +6,15 @@ You may need to use another program such as wget to download the file if your br
 
 We can use zip2john to convert the encrypted zip file to a format that can be cracked by John. 
 
-`zip2john flag.zip > hash`
+```shell
+zip2john flag.zip > hash
+```
 
 Then, we can use John alongside rockyou.txt to crack the password.
 
-`john --format=PKZIP --wordlist=/usr/share/wordlists/rockyou.txt hash`
+```shell
+john --format=PKZIP --wordlist=/usr/share/wordlists/rockyou.txt hash
+```
 
-This will reveal the zip password to be `Soldat*13` which allows us to open the zip and reveal the flag.
+This will reveal the zip password to be "Soldat*13" which allows us to open the zip and reveal the flag.
 
