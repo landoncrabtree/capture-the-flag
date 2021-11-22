@@ -21,3 +21,6 @@ This Capture The Flag featured challenges from seven categories: Binary Exploita
 * [High Security Fanpage: 125pts](https://github.com/landoncrabtree/capture-the-flag/blob/main/metactf/2020/web-exploitation/high-security-fan-page.md)
 * [Barry's Web Application: 150pts](https://github.com/landoncrabtree/capture-the-flag/blob/main/metactf/2020/web-exploitation/barrys-web-application.md)
 * [Everyone Love's a Good Cookie: 175pts](https://github.com/landoncrabtree/capture-the-flag/blob/main/metactf/2020/web-exploitation/everyone-loves-a-good-cookie.md)
+
+## Reverse Engineering
+* [[REDACTED]: 225pts](https://github.com/landoncrabtree/capture-the-flag/blob/main/metactf/2020/reverse-engineering/REDACTED.md)
