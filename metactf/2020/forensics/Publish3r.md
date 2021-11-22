@@ -1,7 +1,5 @@
 # Publish3r - 225pts
-We believe we found a malicious file on someone's workstation. Judging by looking at it, the file likely came from a phishing email. Anyways, we'd like you to analyze the sample, so we can see what would have happened if it executed successfully. That way we can hunt for signs of it across the enterprise. Your flag will be the URL that the malware is trying to reach out to! Can you do it? Format: MetaCTF{http://.........}
-
-Note: We've put the actual file in an encrypted 7z so your browser doesn't complain when downloading it (and our site doesn't get flagged as malware). The password is metactf
+> We believe we found a malicious file on someone's workstation. Judging by looking at it, the file likely came from a phishing email. Anyways, we'd like you to analyze the sample, so we can see what would have happened if it executed successfully. That way we can hunt for signs of it across the enterprise. Your flag will be the URL that the malware is trying to reach out to! Can you do it? Format: MetaCTF{http://.........} Note: We've put the actual file in an encrypted 7z so your browser doesn't complain when downloading it (and our site doesn't get flagged as malware). The password is metactf
 <hr>
 
 After unzipping the 7zip archive, we are presented `Publish3r.pub`. 
