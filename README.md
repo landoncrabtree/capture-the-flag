@@ -24,6 +24,7 @@ The repository is organized into the following directories:
 
 Here's a breakdown of the typical directory structure for a CTF event:
 
+```
 CTF-Name/
 │
 ├── challenges
@@ -43,6 +44,7 @@ CTF-Name/
 │ │ │ │ └── solve.py
 │
 └── README.md
+```
 
 
 ## Usage
