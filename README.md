@@ -31,14 +31,12 @@ CTF-Name/
 │ ├── Crypto/
 │ │ ├── challenge1/
 | │ │ ├── README.md
-| │ │ ├── SOLUTION.md
 │ │ │ ├── files/
 │ │ │ │ ├── asset1.png
 │ │ │ │ └── solve.py
 │ ├── Forensics/
 │ │ ├── challenge1/
 | │ │ ├── README.md
-| │ │ ├── SOLUTION.md
 │ │ │ ├── files/
 │ │ │ │ ├── asset1.tar.gz
 │ │ │ │ └── solve.py
